@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Selected projects",
+    "section": "",
+    "text": "Making LLaMa-2 Answer the Bar : Part 1\n\n\nMotivation and Literature survey\n\n\nHow I fine-tuned LLaMa 2 to answer the Multi state bar exam\n\n\n\n\n\nSep 27, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first_post/index.html",
+    "href": "posts/first_post/index.html",
+    "title": "Making LLaMa-2 Answer the Bar : Part 1",
+    "section": "",
+    "text": "Law and AI (made with deepai.org)\nThe following blog post talks about my escapades with my master’s thesis, titled Supervised Fine-Tuning of Open LLMs for Law: Training and Evaluation for Performance in Legal Examinations."
+  },
+  {
+    "objectID": "posts/first_post/index.html#encoder-based-models",
+    "href": "posts/first_post/index.html#encoder-based-models",
+    "title": "Making LLaMa-2 Answer the Bar : Part 1",
+    "section": "Encoder-Based Models",
+    "text": "Encoder-Based Models\nA lot of legal LLM applications, at the time of my literature survey, worked on applying encoder-based models to specific legal tasks. These tasks ranged from niche functions such as contract review, legal rule classification, court judgment prediction, and other legal matters that I cannot recall exactly but remember were beyond my comprehension at the time (probably still).\nOne thing that bugged me was that these studies and datasets involved a lot of preprocessing and informed legal knowledge (as such many of the authors of these works are lawyers, and rightly so), which made the adoption of encoder-based models not a straightforward task.\nThe question that begged to be answered was, given the pervasive rise of LLMs and their adoption into so many different purposes that already signified their extreme potential for generalizing to tasks with simple, accessible, and well-established fine-tuning methods (thanks majorly in part to Hugging Face libraries, at least in my project); could LLMs be fine-tuned with a fraction of the effort to perform well in the legal domain?"
+  },
+  {
+    "objectID": "posts/first_post/index.html#existing-shows-of-performance-of-llms-in-legal-domains",
+    "href": "posts/first_post/index.html#existing-shows-of-performance-of-llms-in-legal-domains",
+    "title": "Making LLaMa-2 Answer the Bar : Part 1",
+    "section": "Existing Shows of Performance of LLMs in Legal Domains",
+    "text": "Existing Shows of Performance of LLMs in Legal Domains\n\nDecoder-Based Models: What About Their Role in Law?\nThis is where things get interesting. Decoder-only models like GPT-3 and GPT-4 have certainly made headlines with some impressive achievements. Take GPT-4, for instance: it managed to pass the bar exam, hitting an impressive 90th percentile (although they reported the best performing instance, so a tiny bit of cherry-picking there). They showed that, without extra legal training, a model like GPT-4 could reason through legal questions with some accuracy. But here’s the catch—it wasn’t fine-tuned specifically for legal tasks. They tested it with bar questions as-is, highlighting that while these models can handle broad legal tasks, they’re not yet positioned to replace human legal advisors.\nThis led me to wonder: could decoder-only models like GPT take on more specialized legal tasks without that level of setup? While some studies (like DISC-LawLLM) show that decoder models can handle open-ended legal tasks, they still aren’t the first choice for specialized legal functions, where encoder models remain dominant."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! My name is Rean Fernandes, and I am a Masters graduate in Embedded Systems Engineering with a Specialisation in Artificial intelligence. This blog is a small peek into my academic life and will randomly contain my musings and opinions from time to time. There are two main reasons for this blog to exist, the first being to offer a comprehensive look into my projects to prospective employers/collaborators and the second, as a way-back machine of my own."
+  }
+]
